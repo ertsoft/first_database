@@ -13,3 +13,5 @@ A project about the management of a medium-sized school. The project is made in 
 
 # database diagram:
 ![my_database_schema](https://user-images.githubusercontent.com/82166870/114082106-09c04f00-98b6-11eb-990e-97a1282ecbf1.png)
+
+# * More detalis about my database project are written in 'Documentatie.docx'

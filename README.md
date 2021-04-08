@@ -1,5 +1,5 @@
 # first_database
-A project about the management of a medium-sized school. The project is made in SQLServer
+A project about the management of a medium-sized school. The project is made in SQL Server
 # database content :
   - 22 tabels
   - 480 students 
